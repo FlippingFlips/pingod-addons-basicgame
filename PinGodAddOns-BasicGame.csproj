@@ -9,6 +9,10 @@
 
 	<ItemGroup>
 		<None Include="addons\pingod-audio\audio_bus_layout.tres" />
+		<None Include="autoload\Machine.tscn" />
+		<None Include="autoload\PinGodGame.tscn" />
+		<None Include="autoload\Resources.tscn" />
+		<None Include="autoload\WindowActions.tscn" />
 		<None Include="basicgame\Game.tscn" />
 		<None Include="basicgame\MainScene.tscn" />
 		<None Include="basicgame\scenes\BaseMode.tscn" />

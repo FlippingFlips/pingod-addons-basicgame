@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://cnsqcuww2ka6d"]
 
-[ext_resource type="Script" path="res://basicgame/scripts/BasicGame.cs" id="1_nd4pf"]
+[ext_resource type="Script" path="res://basicgame/game/BasicGame.cs" id="1_nd4pf"]
 [ext_resource type="PackedScene" uid="uid://w8xlcskhhtuw" path="res://addons/pingod-modes/scoremode/ScoreMode.tscn" id="2"]
 [ext_resource type="PackedScene" uid="uid://bar7rud4r8pjp" path="res://basicgame/scenes/BaseMode.tscn" id="3_si2dd"]
 

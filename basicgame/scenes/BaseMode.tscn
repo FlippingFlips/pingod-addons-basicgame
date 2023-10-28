@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://bar7rud4r8pjp"]
 
-[ext_resource type="Script" path="res://basicgame/scripts/BaseMode.cs" id="1_k8ccg"]
+[ext_resource type="Script" path="res://basicgame/modes/BaseMode.cs" id="1_k8ccg"]
 [ext_resource type="Script" path="res://addons/pingod-controls/Timer/Saucer.cs" id="2_wg3gl"]
 
 [node name="BaseMode" type="Control" groups=["Mode"]]
